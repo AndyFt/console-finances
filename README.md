@@ -18,7 +18,8 @@ A console created in JavaScript language. It shows the financial analysis of the
 
 ## Usage
 
-Analysis of a company's financial records. ![navigation bar](https://github.com/AndyFt/console-finances/blob/main/images/result_screenshot.png)
+Analysis of a company's financial records. </br>
+![navigation bar](https://github.com/AndyFt/console-finances/blob/main/images/result_screenshot.png)
 
 ## Credits
 
