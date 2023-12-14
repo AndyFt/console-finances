@@ -171,7 +171,7 @@ avg = totalChange / (finances.length - 1);
 console.log("Financial Analysis");
 console.log("--------------------------")
 console.log(`Total months: ${totalMonths}`);
-console.log(`Total: £ ${netProfitLoss}`)
-console.log(`Average change: " ${Math.round(avg * 100)/100}`);
-console.log(`Greatest increase: ${greatestIncrease.date}: £${greatestIncrease.amount}`);
-console.log(`Greatest descrease: ${greatestDecrease.date}: £${greatestDecrease.amount}`);
+console.log(`Total: £${netProfitLoss}`)
+console.log(`Average change: £${Math.round(avg * 100)/100}`);
+console.log(`Greatest increase in Profits/Losses: ${greatestIncrease.date}: £${greatestIncrease.amount}`);
+console.log(`Greatest descrease in Profits/Losses: ${greatestDecrease.date}: £${greatestDecrease.amount}`);
